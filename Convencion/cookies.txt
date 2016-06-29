@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-addtocalendar.com	TRUE	/	FALSE	1999999999	m	rB8u7VdmFY0Tg2gMDcM5Ag==
-naturalcapitalforum.com	TRUE	/	FALSE	1999999999	PHPSESSID	edctoq51dp358ndasf35qv3ca3
-.google.com	TRUE	/	FALSE	1999999999	NID	80=QRJNwifd43QpR_Bp6geb7L2pCVS9RxO33KY0f1p2vSofbNMdJ-hnMVi3gLdT6A36xGbl1T9v5Y1hO5YlkZ52eh3PTyBXJm4QN5T6JNh4XDg3gIOxkfuXbDn4FOFcBXYF
-
